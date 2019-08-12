@@ -1,0 +1,62 @@
+{
+    "projects": [
+        {
+            "url": "https://snake-game-pesto.netlify.com",
+            "image": "https://drive.google.com/uc?id=1qafEojPuqvoG0O41lom1o07BnAyRwXgD",
+            "title": "Snake game.",
+            "text": "Snake game made in React with Semantic UI and Firebase."
+        },
+        {
+            "url": "https://github.com/sumeetrohra/crim",
+            "image": "https://drive.google.com/uc?id=1d6-uCNUdKF3HLgv1vlEGzjef-W3Z_1xr",
+            "title": "Crim.",
+            "text": "A Face Recongnition app for Criminal detection made with React Native, Firebase and Azure Conginitive Api."
+        },
+        {
+            "url": "https://github.com/sumeetrohra/manager",
+            "image": "https://drive.google.com/uc?id=1b7D9c4VaYUOlAS6l9e0WuwMMkXPALnH_",
+            "title": "Manager.",
+            "text": "Employee manager made using React Native and Firebase."
+        },
+        {
+            "url": "https://github.com/sumeetrohra/pwd_manager",
+            "image": "https://drive.google.com/uc?id=1b7D9c4VaYUOlAS6l9e0WuwMMkXPALnH_",
+            "title": "Password Manager.",
+            "text": "Password Manager made using React Native and Firebase."
+        }
+    ],
+    "talks": [
+        {
+            "url": "https://drive.google.com/open?id=1tHKnvHrHnvdnyA7U9jCsevC6rzvAdAGr",
+            "image": "https://drive.google.com/uc?id=1oMCjuGF6sp1YTikl3pBXZsZR_EQQTsZn",
+            "title": "Future of Jobs.",
+            "text": "What will jobs look like in 2020?"
+        },
+        {
+            "url": "https://drive.google.com/open?id=1vG5LXqR-CbyOgBoEPUYTR9vUVUMqg1ZN80IOLmKTPGw",
+            "image": "https://drive.google.com/uc?id=1QV41R-UV1BKUcqiFzXYxtH_WhpEWeK9Y",
+            "title": "Blockchain, Bitcoin, Ethereum and more...",
+            "text": "Meetup on Blockchain and its implications."
+        },
+        {
+            "url": "https://medium.com/altcoin-magazine/what-is-bitcoin-ede108d2ea9e",
+            "image": "https://drive.google.com/uc?id=1VocI7qeek3_aqPZxPtJH0IzqdU_Jq8nw",
+            "title": "What is Blockchain?",
+            "text": "Seminar on Blockchain."
+        }
+    ],
+    "blogs": [
+        {
+            "url": "https://medium.com/altcoin-magazine/what-is-bitcoin-d3f2a34416ed",
+            "image": "https://miro.medium.com/max/529/1*zQxHH44g9LPH5qNpvt04OQ.png",
+            "title": "What is Bitcoin?",
+            "text": "Part 1."
+        },
+        {
+            "url": "https://medium.com/altcoin-magazine/what-is-bitcoin-ede108d2ea9e",
+            "image": "https://miro.medium.com/max/875/1*yUtD_E_z7etVgUH8bysy8Q.png",
+            "title": "What is Bitcoin?",
+            "text": "Part 2."
+        }
+    ]
+}
