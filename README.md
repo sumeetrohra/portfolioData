@@ -1,2 +1,2 @@
 # portfolioData
-json data of my portfolio : sumeeetrohra-netlify.com
+json data of my portfolio : sumeetrohra.netlify.com
