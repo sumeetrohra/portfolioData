@@ -1,6 +1,12 @@
 {
     "projects": [
         {
+            "url": "https://www.npmjs.com/package/rn-stack-navigator",
+            "image": "https://user-images.githubusercontent.com/14572393/79987505-227bfd00-84cb-11ea-8709-899bb90a0c26.gif",
+            "title": "React Native Stack Navigator",
+            "text": "The simplest stack navigator for react native applications which has no bloatware unlike other alternates. Works with React Native vanilla as well as expo. No native code involved."
+        },
+        {
             "url": "https://snake-game-pesto.netlify.com",
             "image": "https://drive.google.com/uc?id=1qafEojPuqvoG0O41lom1o07BnAyRwXgD",
             "title": "Snake game.",
